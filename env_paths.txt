@@ -1,0 +1,3 @@
+C:\Users\beher\OneDrive\Desktop\Djangoproject\Django-5-By-Example\Chapter03\mysite\.env
+C:\Users\beher\OneDrive\Desktop\Wanderlust\.env
+C:\Users\beher\OneDrive\Desktop\Zerodhaclone\backend\.env
